@@ -1,3 +1,3 @@
 
 # JavaScript
-Projtos simples feito com JavaScript
+Projetos simples feito com JavaScript.
